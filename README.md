@@ -9,7 +9,7 @@
 
 ## Proyecto 01 - Laravel Crud User Roles
 
-Proyecto 01 con Laravel, Crud básico de Usuarios y Tareas, con manejo básico de Roles y Permisos, utilizando Servicios de autenticación de Laravel (Gates) por medio de un Middleware propio. Tomado de [LaravelDaily](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles).
+Proyecto 01 con Laravel, Crud básico de Usuarios y Tareas, con manejo básico de Roles y Permisos, utilizando Servicios de autenticación de Laravel ([Gates](https://laravel.com/docs/8.x/authorization)) por medio de un Middleware propio. Tomado de [LaravelDaily](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles).
 
 ## About Laravel
 
