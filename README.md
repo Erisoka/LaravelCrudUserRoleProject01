@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Proyecto 01 - Laravel Crud User Roles
+
+Proyecto 01 con Laravel, Crud básico de Usuarios y Tareas, con manejo básico de Roles y Permisos, utilizando Servicios de autenticación de Laravel (Gates) por medio de un Middleware propio. Tomado de [LaravelDaily](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles).
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
